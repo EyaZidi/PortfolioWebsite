@@ -6,7 +6,7 @@
   </head>
 
   <body>
-    <h2>This is my first application!<h2/>
+    <h1>This is my first application!<h1/>
          <!--this is  a comment-->
     </body>
    
